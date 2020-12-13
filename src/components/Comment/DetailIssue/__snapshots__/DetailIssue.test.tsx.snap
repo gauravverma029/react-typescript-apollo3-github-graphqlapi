@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Comments DetailIssue Component Should Render and mock data 1`] = `
+<DocumentFragment>
+  <article
+    class="hover:bg-gray-200 group block cursor-pointer rounded-md border border-gray-300"
+  >
+    <div
+      class="flex bg-gray-700 text-lg font-semibold text-white p-4"
+    >
+      Using dangerouslySetInnerHTML with
+    </div>
+    <div
+      class="min-w-0 p-4 relative flex-auto  break-all"
+    >
+      <div>
+        <p>
+          Backend return an html type string and I want render in react through
+        </p>
+        
+
+        <div />
+        
+
+        <p>
+          however, html contains the JS code that dynamically add data to 
+        </p>
+         Tag and it does not render any data in my page
+        <br />
+        
+the table is empty
+        <p />
+        <p>
+          How could solve this problem?
+        </p>
+        <p>
+          Thanks for any ideas
+        </p>
+        <table
+          role="table"
+        >
+          
+
+
+        </table>
+      </div>
+    </div>
+  </article>
+</DocumentFragment>
+`;

@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Filter Component Should Render 1`] = `
+<DocumentFragment>
+  <div
+    class="px-4 py-3 flex bg-gray-100"
+  >
+    <div
+      class="flex-auto flex space-x-6"
+    >
+      <div
+        class="flex items-center justify-center  cursor-pointer text-gray-400"
+      >
+        All
+      </div>
+      <div
+        class="flex items-center justify-center cursor-pointer  text-gray-600"
+      >
+        Open
+      </div>
+      <div
+        class="flex items-center justify-center cursor-pointer text-gray-600"
+      >
+        Closed
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

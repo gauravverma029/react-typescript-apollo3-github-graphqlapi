@@ -1,0 +1,657 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`List Component Should Render with children and mock data 1`] = `
+<DocumentFragment>
+  <div
+    class="w-full grid grid-cols-1 hover:bg-light-blue-500 rounded-md border border-gray-300"
+  >
+    <div
+      class="divide-y divide-gray-300"
+    >
+      <div
+        class="px-4 py-3 flex bg-gray-100"
+      >
+        <div
+          class="flex-auto flex space-x-6"
+        >
+          <div
+            class="flex items-center justify-center  cursor-pointer text-gray-400"
+          >
+            All
+          </div>
+          <div
+            class="flex items-center justify-center cursor-pointer  text-gray-600"
+          >
+            Open
+          </div>
+          <div
+            class="flex items-center justify-center cursor-pointer text-gray-600"
+          >
+            Closed
+          </div>
+        </div>
+      </div>
+      <div
+        class="border-b-1 border-gray-400 hover:bg-gray-200 group block p-4 cursor-pointer"
+      >
+        <a
+          class="divide-y-2 divide-gray-400"
+          href="/20450"
+        >
+          <div
+            class="flex flex-col justify-between lg:space-x-32 md:flex-row md:space-x-4"
+          >
+            <div
+              class="flex-2"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-md font-semibold text-black mb-0.5 break-all lg:text-md"
+                >
+                  facebook/react - Bug: Trailing Comma in Arrays and Dict
+                </div>
+                <div
+                  class="text-gray-400 font-light flex flex-wrap text-sm whitespace-pre truncate md:overflow-clip"
+                >
+                  #20450 less than a minute ago
+                </div>
+              </div>
+            </div>
+            <div
+              class="flex flex-row py-2 lg:py-0.5"
+            >
+              <div
+                class="text-gray-600 p-2 mx-2 h-9 flex items-center justify-center bg-gray-100 rounded-lg"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+                <div>
+                  0
+                </div>
+              </div>
+              <div
+                class="bg-gray-100 text-gray-600 w-20 p-2 mx-2 h-9 flex items-center justify-center rounded-lg"
+              >
+                OPEN
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        class="border-b-1 border-gray-400 hover:bg-gray-200 group block p-4 cursor-pointer"
+      >
+        <a
+          class="divide-y-2 divide-gray-400"
+          href="/20448"
+        >
+          <div
+            class="flex flex-col justify-between lg:space-x-32 md:flex-row md:space-x-4"
+          >
+            <div
+              class="flex-2"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-md font-semibold text-black mb-0.5 break-all lg:text-md"
+                >
+                  facebook/react - [eslint-plugin-react-hooks]: could not find hook called conditionally when using an anonymous function component
+                </div>
+                <div
+                  class="text-gray-400 font-light flex flex-wrap text-sm whitespace-pre truncate md:overflow-clip"
+                >
+                  #20448 about 12 hours ago
+                </div>
+              </div>
+            </div>
+            <div
+              class="flex flex-row py-2 lg:py-0.5"
+            >
+              <div
+                class="text-gray-600 p-2 mx-2 h-9 flex items-center justify-center bg-gray-100 rounded-lg"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+                <div>
+                  1
+                </div>
+              </div>
+              <div
+                class="bg-gray-100 text-gray-600 w-20 p-2 mx-2 h-9 flex items-center justify-center rounded-lg"
+              >
+                OPEN
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        class="border-b-1 border-gray-400 hover:bg-gray-200 group block p-4 cursor-pointer"
+      >
+        <a
+          class="divide-y-2 divide-gray-400"
+          href="/20447"
+        >
+          <div
+            class="flex flex-col justify-between lg:space-x-32 md:flex-row md:space-x-4"
+          >
+            <div
+              class="flex-2"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-md font-semibold text-black mb-0.5 break-all lg:text-md"
+                >
+                  facebook/react - Bug: [reactdev tools][react native] Bridge was already shutdown. Inspection is broken
+                </div>
+                <div
+                  class="text-gray-400 font-light flex flex-wrap text-sm whitespace-pre truncate md:overflow-clip"
+                >
+                  #20447 about 17 hours ago
+                </div>
+              </div>
+            </div>
+            <div
+              class="flex flex-row py-2 lg:py-0.5"
+            >
+              <div
+                class="text-gray-600 p-2 mx-2 h-9 flex items-center justify-center bg-gray-100 rounded-lg"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+                <div>
+                  0
+                </div>
+              </div>
+              <div
+                class="bg-gray-100 text-gray-600 w-20 p-2 mx-2 h-9 flex items-center justify-center rounded-lg"
+              >
+                OPEN
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        class="border-b-1 border-gray-400 hover:bg-gray-200 group block p-4 cursor-pointer"
+      >
+        <a
+          class="divide-y-2 divide-gray-400"
+          href="/20446"
+        >
+          <div
+            class="flex flex-col justify-between lg:space-x-32 md:flex-row md:space-x-4"
+          >
+            <div
+              class="flex-2"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-md font-semibold text-black mb-0.5 break-all lg:text-md"
+                >
+                  facebook/react - Using dangerouslySetInnerHTML with &lt;Script&gt; Tag?
+                </div>
+                <div
+                  class="text-gray-400 font-light flex flex-wrap text-sm whitespace-pre truncate md:overflow-clip"
+                >
+                  #20446 about 24 hours ago
+                </div>
+              </div>
+            </div>
+            <div
+              class="flex flex-row py-2 lg:py-0.5"
+            >
+              <div
+                class="text-gray-600 p-2 mx-2 h-9 flex items-center justify-center bg-gray-100 rounded-lg"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+                <div>
+                  1
+                </div>
+              </div>
+              <div
+                class="bg-gray-100 text-gray-600 w-20 p-2 mx-2 h-9 flex items-center justify-center rounded-lg"
+              >
+                OPEN
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        class="border-b-1 border-gray-400 hover:bg-gray-200 group block p-4 cursor-pointer"
+      >
+        <a
+          class="divide-y-2 divide-gray-400"
+          href="/20435"
+        >
+          <div
+            class="flex flex-col justify-between lg:space-x-32 md:flex-row md:space-x-4"
+          >
+            <div
+              class="flex-2"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-md font-semibold text-black mb-0.5 break-all lg:text-md"
+                >
+                  facebook/react - Feature Request(devtools): \`launch-editor\` for selected component
+                </div>
+                <div
+                  class="text-gray-400 font-light flex flex-wrap text-sm whitespace-pre truncate md:overflow-clip"
+                >
+                  #20435 1 day ago
+                </div>
+              </div>
+            </div>
+            <div
+              class="flex flex-row py-2 lg:py-0.5"
+            >
+              <div
+                class="text-gray-600 p-2 mx-2 h-9 flex items-center justify-center bg-gray-100 rounded-lg"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+                <div>
+                  1
+                </div>
+              </div>
+              <div
+                class="bg-gray-100 text-gray-600 w-20 p-2 mx-2 h-9 flex items-center justify-center rounded-lg"
+              >
+                OPEN
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        class="border-b-1 border-gray-400 hover:bg-gray-200 group block p-4 cursor-pointer"
+      >
+        <a
+          class="divide-y-2 divide-gray-400"
+          href="/20431"
+        >
+          <div
+            class="flex flex-col justify-between lg:space-x-32 md:flex-row md:space-x-4"
+          >
+            <div
+              class="flex-2"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-md font-semibold text-black mb-0.5 break-all lg:text-md"
+                >
+                  facebook/react - Error: "Commit tree does not contain fiber 5766. This is a bug in React DevTools."
+                </div>
+                <div
+                  class="text-gray-400 font-light flex flex-wrap text-sm whitespace-pre truncate md:overflow-clip"
+                >
+                  #20431 2 days ago
+                </div>
+              </div>
+            </div>
+            <div
+              class="flex flex-row py-2 lg:py-0.5"
+            >
+              <div
+                class="text-gray-600 p-2 mx-2 h-9 flex items-center justify-center bg-gray-100 rounded-lg"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+                <div>
+                  5
+                </div>
+              </div>
+              <div
+                class="bg-gray-100 text-gray-600 w-20 p-2 mx-2 h-9 flex items-center justify-center rounded-lg"
+              >
+                OPEN
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        class="border-b-1 border-gray-400 hover:bg-gray-200 group block p-4 cursor-pointer"
+      >
+        <a
+          class="divide-y-2 divide-gray-400"
+          href="/20430"
+        >
+          <div
+            class="flex flex-col justify-between lg:space-x-32 md:flex-row md:space-x-4"
+          >
+            <div
+              class="flex-2"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-md font-semibold text-black mb-0.5 break-all lg:text-md"
+                >
+                  facebook/react - Error: "Commit tree already contains fiber 1719. This is a bug in React DevTools."
+                </div>
+                <div
+                  class="text-gray-400 font-light flex flex-wrap text-sm whitespace-pre truncate md:overflow-clip"
+                >
+                  #20430 2 days ago
+                </div>
+              </div>
+            </div>
+            <div
+              class="flex flex-row py-2 lg:py-0.5"
+            >
+              <div
+                class="text-gray-600 p-2 mx-2 h-9 flex items-center justify-center bg-gray-100 rounded-lg"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+                <div>
+                  2
+                </div>
+              </div>
+              <div
+                class="bg-gray-100 text-gray-600 w-20 p-2 mx-2 h-9 flex items-center justify-center rounded-lg"
+              >
+                CLOSED
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        class="border-b-1 border-gray-400 hover:bg-gray-200 group block p-4 cursor-pointer"
+      >
+        <a
+          class="divide-y-2 divide-gray-400"
+          href="/20423"
+        >
+          <div
+            class="flex flex-col justify-between lg:space-x-32 md:flex-row md:space-x-4"
+          >
+            <div
+              class="flex-2"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-md font-semibold text-black mb-0.5 break-all lg:text-md"
+                >
+                  facebook/react - Bug: 
+                </div>
+                <div
+                  class="text-gray-400 font-light flex flex-wrap text-sm whitespace-pre truncate md:overflow-clip"
+                >
+                  #20423 3 days ago
+                </div>
+              </div>
+            </div>
+            <div
+              class="flex flex-row py-2 lg:py-0.5"
+            >
+              <div
+                class="text-gray-600 p-2 mx-2 h-9 flex items-center justify-center bg-gray-100 rounded-lg"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+                <div>
+                  0
+                </div>
+              </div>
+              <div
+                class="bg-gray-100 text-gray-600 w-20 p-2 mx-2 h-9 flex items-center justify-center rounded-lg"
+              >
+                CLOSED
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        class="border-b-1 border-gray-400 hover:bg-gray-200 group block p-4 cursor-pointer"
+      >
+        <a
+          class="divide-y-2 divide-gray-400"
+          href="/20418"
+        >
+          <div
+            class="flex flex-col justify-between lg:space-x-32 md:flex-row md:space-x-4"
+          >
+            <div
+              class="flex-2"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-md font-semibold text-black mb-0.5 break-all lg:text-md"
+                >
+                  facebook/react - [React DevTools] Bug: irrelevant "Cannot update a component from inside the function body of a different component"
+                </div>
+                <div
+                  class="text-gray-400 font-light flex flex-wrap text-sm whitespace-pre truncate md:overflow-clip"
+                >
+                  #20418 3 days ago
+                </div>
+              </div>
+            </div>
+            <div
+              class="flex flex-row py-2 lg:py-0.5"
+            >
+              <div
+                class="text-gray-600 p-2 mx-2 h-9 flex items-center justify-center bg-gray-100 rounded-lg"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+                <div>
+                  1
+                </div>
+              </div>
+              <div
+                class="bg-gray-100 text-gray-600 w-20 p-2 mx-2 h-9 flex items-center justify-center rounded-lg"
+              >
+                CLOSED
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+      <div
+        class="border-b-1 border-gray-400 hover:bg-gray-200 group block p-4 cursor-pointer"
+      >
+        <a
+          class="divide-y-2 divide-gray-400"
+          href="/20417"
+        >
+          <div
+            class="flex flex-col justify-between lg:space-x-32 md:flex-row md:space-x-4"
+          >
+            <div
+              class="flex-2"
+            >
+              <div
+                class="flex flex-col"
+              >
+                <div
+                  class="text-md font-semibold text-black mb-0.5 break-all lg:text-md"
+                >
+                  facebook/react - Bug: react-refresh is refreshing components without signatures and different hooks instead of remount
+                </div>
+                <div
+                  class="text-gray-400 font-light flex flex-wrap text-sm whitespace-pre truncate md:overflow-clip"
+                >
+                  #20417 3 days ago
+                </div>
+              </div>
+            </div>
+            <div
+              class="flex flex-row py-2 lg:py-0.5"
+            >
+              <div
+                class="text-gray-600 p-2 mx-2 h-9 flex items-center justify-center bg-gray-100 rounded-lg"
+              >
+                <svg
+                  fill="none"
+                  height="20"
+                  stroke="currentColor"
+                  viewBox="0 0 24 24"
+                  width="20"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                    stroke-width="2"
+                  />
+                </svg>
+                <div>
+                  2
+                </div>
+              </div>
+              <div
+                class="bg-gray-100 text-gray-600 w-20 p-2 mx-2 h-9 flex items-center justify-center rounded-lg"
+              >
+                OPEN
+              </div>
+            </div>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

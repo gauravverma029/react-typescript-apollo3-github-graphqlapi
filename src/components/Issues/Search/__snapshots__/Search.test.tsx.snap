@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Component Should Render 1`] = `
+<DocumentFragment>
+  <div
+    class="p-4"
+  >
+    <form
+      class="relative"
+      data-testid="form"
+    >
+      <svg
+        class="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400"
+        fill="currentColor"
+        height="20"
+        id="svg"
+        width="20"
+      >
+        <path
+          clip-rule="evenodd"
+          d="M8 4a4 4 0 100 8 4 4 0 000-8zM2 8a6 6 0 1110.89 3.476l4.817 4.817a1 1 0 01-1.414 1.414l-4.816-4.816A6 6 0 012 8z"
+          fill-rule="evenodd"
+        />
+      </svg>
+      <input
+        class="px-4 border-2 rounded-md border-gray-600 focus:outline-none py-2 pl-10 w-full"
+        placeholder="Search all Issues"
+        type="text"
+      />
+    </form>
+  </div>
+</DocumentFragment>
+`;

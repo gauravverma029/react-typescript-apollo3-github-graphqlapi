@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Header Component Should Render 1`] = `
+<DocumentFragment>
+  <div
+    class="w-screen bg-gray-900"
+  >
+    <div
+      class="p-2 flex justify-center"
+    >
+      <div
+        class="text-2xl font-semibold text-white"
+      >
+        Github
+      </div>
+    </div>
+  </div>
+</DocumentFragment>
+`;

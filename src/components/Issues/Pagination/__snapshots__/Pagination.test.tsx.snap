@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pagination Component Should Render 1`] = `
+<DocumentFragment>
+  <div
+    class="w/3 flex m-auto justify-center py-4"
+  >
+    <div
+      class="text-violet-700 text-base font-semibold px-6 py-2 border-2 border-gray-500 rounded-lg cursor-pointer hover:bg-gray-200"
+    >
+      Load More
+    </div>
+  </div>
+</DocumentFragment>
+`;

@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Comments ListItems Component Should Render and mock data 1`] = `
+<DocumentFragment>
+  <article
+    class="hover:bg-gray-200 group block cursor-pointer rounded-md border border-gray-300"
+  >
+    <div
+      class="px-4 py-3 flex bg-gray-100 text-lg font-semibold text-black mb-0.5 break-all"
+    >
+      eps1lon  about 10 hours ago
+    </div>
+    <div
+      class="min-w-0 p-4 relative flex-auto  break-all"
+    >
+      <div>
+        <p>
+          It doesn't look like this bug report has enough info for one of us to reproduce it.
+        </p>
+        
+
+        <p>
+          Please provide a CodeSandbox (
+          <a
+            href="https://react.new/"
+            rel="nofollow"
+          >
+            https://react.new/
+          </a>
+          ), a link to a repository on GitHub, or provide a minimal code example that reproduces the problem.
+        </p>
+        
+
+        <p>
+          Here are some tips for providing a minimal example: 
+          <a
+            href="https://stackoverflow.com/help/mcve"
+            rel="nofollow"
+          >
+            https://stackoverflow.com/help/mcve
+          </a>
+        </p>
+        
+
+
+      </div>
+    </div>
+  </article>
+</DocumentFragment>
+`;
