@@ -19,7 +19,6 @@ import ErrorMessage from "../../components/ErrorMessage";
 const Issues: React.FC = () => {
   const [searchQuery, setSearchQuery] = useState(initialStateSearch);
   const today = new Date();
-
   const { data, loading, error, fetchMore } = useQuery<
     SearchIssues,
     SearchIssuesVariables

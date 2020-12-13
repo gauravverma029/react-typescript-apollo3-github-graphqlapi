@@ -13,7 +13,7 @@ import { GITHUB_BASE_URL } from "./global";
 const httpLink = new HttpLink({
   uri: GITHUB_BASE_URL,
   headers: {
-    authorization: "Bearer 580e8dd4f3b5dc1a67fd0b8118db1c401b66cf6a",
+    authorization: `Bearer ${process.env.REACT_APP_GITHUB_PERSONAL_ACCESS_TOKEN}`,
   },
 });
 
